@@ -1,0 +1,140 @@
+# Awesome AI image synthesis  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) ![Twitter Follow](https://img.shields.io/twitter/follow/altryne?label=Follow%20%40altryne&style=social) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N3DWMR1)
+
+
+> A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools. Many of these tools come with "batteries included" and won't include colabs or python code you have to run. (for colabs see [this list](https://pharmapsychotic.com/tools.html))
+
+![](moore-law-ai-art.jpeg)
+
+## Contents
+
+- [🤖 Text-to-image Models](#models-you-can-run)
+  - [💰 Commercial](#commercial) 
+  - [☁️ Free hosted](#free-hosted-tools)
+  - [💻 Free local](#free-local)  - Run on your GPU
+- [Prompt engineering](#prompt-engineering)
+    - [🎨 Tools for prompt engineer](#tools-for-prompt-engineer)
+    - [📚 Artist studies](#artist-studies)
+    - [🔗 Browser extensions](#browser-extensions)
+    - [🎩 Tips and tricks](#tips-and-tricks)
+    - [🎭 Inspiration tools](#inspiration-tools)
+- [✨ Post processing tools](#post-processing-tools)
+    - [💰 Resolution upscale - hosted](#resolution-upscale---subscription)
+    - [🆓 Resolution upscale - free](#resolution-upscale---free)
+    - [🙃 Fix faces](#fix-faces)
+    - [✋ Fix hands](#fix-hands)
+    - [👸 Beutify](#Beutify)
+    - [👩‍🌾 Outcrop](#Outcrop)
+    - [👩‍🎨 Inpaint ](#Inpaint)
+- [👨‍👨‍👧‍👦 Communities](#communities)
+
+- [👩‍🏫 Theory & Learning](#theory--learning) 
+    - [🐦 Twitter Threads](#twitter-threads)
+    - [🎥 Videos](#videos) 
+    - [✉️ Substack newsletters](#substack-newsletters)
+    - [🫡  Notable twitter follows](#notable-twitter-follows)
+
+## Text-to-image Models you can run
+
+Models, commercial and open source, that you can either try for free and pay for credits or can run in the cloud. 
+
+### Commercial 
+
+- [DreamStudio](https://beta.dreamstudio.ai/) - #StableDiffusion in the cloud 
+- [Midjourney](https://www.midjourney.com/app/) - Discord bot with amazing visuals
+- [Dalle2](https://labs.openai.com/) - The one that started it all, great with multi characters
+- [NightCafe](https://creator.nightcafe.studio/) - Nightcafe studio is an AI Art Generator (incrorporates stableDiffusion)
+- [ArtBreeder Collage](https://collage.artbreeder.com/) - A collaging tool to generate art using visual aides.
+
+### Free hosted tools
+
+- [Craiyon](https://www.craiyon.com/) - Formerly dalleMini - open source tool that outputs great compositions but lower quality
+- [StableDiffusion on HuggingFace](https://huggingface.co/spaces/stabilityai/stable-diffusion) - Run the #StableDiffusion right in huggingface UI 
+- [StableDiffusion on Replicate](https://replicate.com/stability-ai/stable-diffusion) - Run #StableDiffusionon on replicate.com 
+- [Google Colab](https://colab.research.google.com/) - Google free GPU machines in the cloud running models of all sorts.
+
+### Free local - *Advanced  
+> Batteries not included, this section is for advanced folks who can use the command line, install python packages, run code etc' 
+- [StableDiffusion + Web GUI](https://github.com/hlky/stable-diffusion-webui) - This repo has a step by step way to install and run #stableDiffusion using local GPU + a gradio based web UI.
+
+- [StableDiffusion with Diffusers](https://huggingface.co/blog/stable_diffusion) - A simple-ish way to run stable diffusion locally using hugging face diffusers library
+
+
+### img2img - Generate images from a combination of prompt + init image
+![](img2img.png)
+> img2img refers to the practice of feeding a model an init image AND a prompt. 
+- [stable-img-to-img](https://replicate.com/afiaka87/stable-image-to-image) - Hosted version of img2img tool from stable diffusion. Provide an image + a prompt
+
+## Prompt engineering
+The emerging field of the Prompt Engineer is only beggining, and yet there are tools released for us every day. Follow this repo for the best tools as they become "Awesome"
+### Tools for prompt engineers
+  - [Lexica](https://lexica.art/) - A prompts search engine
+  - [Krea.ai](https://www.krea.ai/) - A prompt builder with a nice UI, searchable prompts.
+  - [PromptMania prompt builder](https://promptomania.com/prompt-builder/) - A prompt builder that supports MJ, SD and Dalle, with visual examples and a lot of modifiers
+  - [Promptbase Marketplace](https://promptbase.com/) - Buy and sell your promtps for 💰
+  - [GPT-2 prompt generator](https://huggingface.co/succinctly/text2image-prompt-generator) - A GPT2 model trained to autocomplete MJ prompts
+
+### Artist/Modifier studies 
+  - [Stable diffusion artist study](https://proximacentaurib.notion.site/e2537cbf42c34b7e9a9a4126f81dfd0d?v=7b4a3c03fb654045be324eb71acc57e6) - A huge list of artist (no living) with examples by ([@sureailabs](https://twitter.com/sureailabs), [@proximasan](https://twitter.com/proximasan), [@EErratica](https://twitter.com/EErratica), and [@KyrickYoung](https://twitter.com/KyrickYoung))
+  - [StableDiffusion modifier study](https://proximacentaurib.notion.site/2b07d3195d5948c6a7e5836f9d535592?v=b5b75a67cc52483c9965cfc141f6f582) - A great study of modifiers that can enhance your prompts significantly
+
+### Browser extensions 
+  - [Dalle prompt helper](https://github.com/altryne/dalle-prompt-extension) - a chrome extension to inject prompts into the Dalle interface by [@altryne](https://twitter.com/altryne)
+
+### Tips and tricks 
+  - [CLIP interrogator](https://github.com/pharmapsychotic/clip-interrogator) - Convert uploaded images into prompts by [@pharampsychotic](https://twitter.com/pharmapsychotic) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb)
+  - [img2prompt](https://replicate.com/methexis-inc/img2prompt) - Hosted version of CLIP interrogator on Replicate. Upload image, get prompt ideas. 
+### Inspiration tools 
+  - [same.energy](https://same.energy) - A visual exploration search engine. 
+  - [CLIP retreival](https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn5.laion.ai&index=laion5B&useMclip=false) - Allows you to browse the major datasets the img-2-text models were trained on. 
+
+## Post processing tools
+### Resolution upscale - subscription
+- [Gigapixel upscaler](https://www.topazlabs.com/gigapixel-ai) Great upscaler app + web. One time payment
+- [https://letsenhance.io/](https://letsenhance.io/) - LetEnhance is a credit based enhancement system
+
+### Resolution upscale - free
+  - [real-esrgan](https://replicate.com/nightmareai/real-esrgan) - A hosted version of real-ERSGan with optional face correction
+  - [Cupscale](https://github.com/n00mkrad/cupscale) - Windows app that upscales with ERSGan on your GPU
+### Fix faces
+### Fix hands
+-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+### Beutify
+- TBD
+### Outcrop
+ - TBD
+### Inpaint 
+- TBD
+
+## Communities 
+- [StableDiffusion discord](https://discord.gg/stablediffusion) - A great community with folks who help each other
+- [MidJourney](https://discord.com/invite/midjourney) - A huge community of image synthesis folks, prompt help, inspiration channels etc'
+
+## Theory & Learning 
+### Tutorials
+  - [A-Traveler-s-Guide-to-the-Latent-Space](https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f#68987404382d4807b57204429d50e53d) - In depth guide for prompt engineering. 
+  - [Dalle2 prompt book](https://dallery.gallery/the-dalle-2-prompt-book/) - A great, visual intro to prompt creation by [@guyp](https://twitter.com/guyp) - Dalle focused
+
+### Twitter Threads
+- [Dalle vs MJ vs StableDiffusion](https://twitter.com/fabianstelzer/status/1561019187451011074) - A great thread comparing the 3 main models by [@fabianstelzer](https://twitter.com/fabianstelzer)
+- [Stable Diffusion explained](https://twitter.com/ai__pub/status/1561362542487695360) - A easy to udnerstand stable diffusion explanation thread by [@ai__pub](https://twitter.com/ai__pub)
+
+### Notable twitter follows
+- [Ai, AiArt, Generative](https://twitter.com/i/lists/1318967584721690626?show=top) - A twitter list of 70+ #aiArt community members, a stream of conciuosness for the field 
+- [@diffusionBot](https://twitter.com/diffusionbot) - A stableDiffusion bot that generates a propt right in twitter replies when you mention it. 
+- [Whats AI - Louis Bouchard](https://twitter.com/Whats_AI) - Accessible AI concepts, paper reviews, youtube videos 
+
+
+## If you find this list valuable
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N3DWMR1)
+
+## Contribute
+
+Contributions more than welcome!
+In face it's why I wrote this list, to get contributions and have folks subscribe to changes to get notified about new and exciting stuff coming to this world of AI art
+
+ Read the [contribution guidelines](contributing.md) first.
+
+## Acknowledgements and shoutouts   
+
+[@pharampsychotic](https://twitter.com/pharmapsychotic) - For the insane [tools list](https://pharmapsychotic.com/tools.html) on their website, the support in DMs, and the spaces with a lot of patience and answers ❤️ 
