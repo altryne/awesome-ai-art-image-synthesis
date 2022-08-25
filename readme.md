@@ -52,8 +52,8 @@ Models, commercial and open source, that you can either try for free and pay for
 - [StableDiffusion on Replicate](https://replicate.com/stability-ai/stable-diffusion) - Run #StableDiffusionon on replicate.com 
 - [Google Colab](https://colab.research.google.com/) - Google free GPU machines in the cloud running models of all sorts.
 
-### Free local - *Advanced  
-> Batteries not included, this section is for advanced folks who can use the command line, install python packages, run code etc' 
+### Free local  
+> *Advanced Batteries not included, this section is for advanced folks who can use the command line, install python packages, run code etc' 
 - [StableDiffusion + Web GUI](https://github.com/hlky/stable-diffusion-webui) - This repo has a step by step way to install and run #stableDiffusion using local GPU + a gradio based web UI.
 
 - [StableDiffusion with Diffusers](https://huggingface.co/blog/stable_diffusion) - A simple-ish way to run stable diffusion locally using hugging face diffusers library
