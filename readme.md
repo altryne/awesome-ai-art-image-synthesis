@@ -120,7 +120,7 @@ The emerging field of the Prompt Engineer is only beggining, and yet there are t
 
 ### Notable twitter follows
 - [Ai, AiArt, Generative](https://twitter.com/i/lists/1318967584721690626?show=top) - A twitter list of 70+ #aiArt community members, a stream of conciuosness for the field 
-- [@diffusionBot](https://twitter.com/diffusionbot) - A stableDiffusion bot that generates a propt right in twitter replies when you mention it. 
+- [@diffusionBot](https://twitter.com/diffusionbot) - A stableDiffusion bot that generates a prompt right in twitter replies when you mention it. 
 - [Whats AI - Louis Bouchard](https://twitter.com/Whats_AI) - Accessible AI concepts, paper reviews, youtube videos 
 
 
@@ -131,7 +131,7 @@ The emerging field of the Prompt Engineer is only beggining, and yet there are t
 ## Contribute
 
 Contributions more than welcome!
-In face it's why I wrote this list, to get contributions and have folks subscribe to changes to get notified about new and exciting stuff coming to this world of AI art
+In fact it's why I wrote this list, to get contributions and have folks subscribe to changes to get notified about new and exciting stuff coming to this world of AI art
 
  Read the [contribution guidelines](contributing.md) first.
 
