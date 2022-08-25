@@ -85,7 +85,7 @@ The emerging field of the Prompt Engineer is only beggining, and yet there are t
   - [img2prompt](https://replicate.com/methexis-inc/img2prompt) - Hosted version of CLIP interrogator on Replicate. Upload image, get prompt ideas. 
 ### Inspiration tools 
   - [same.energy](https://same.energy) - A visual exploration search engine. 
-  - [CLIP retreival](https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn5.laion.ai&index=laion5B&useMclip=false) - Allows you to browse the major datasets the img-2-text models were trained on. 
+  - [CLIP retrieval](https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn5.laion.ai&index=laion5B&useMclip=false) - Allows you to browse the major datasets the img-2-text models were trained on. 
 
 ## Post processing tools
 ### Resolution upscale - subscription
