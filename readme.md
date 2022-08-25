@@ -65,7 +65,7 @@ Models, commercial and open source, that you can either try for free and pay for
 - [stable-img-to-img](https://replicate.com/afiaka87/stable-image-to-image) - Hosted version of img2img tool from stable diffusion. Provide an image + a prompt
 
 ## Prompt engineering
-The emerging field of the Prompt Engineer is only beggining, and yet there are tools released for us every day. Follow this repo for the best tools as they become "Awesome"
+The emerging field of the Prompt Engineering is just beginning, and yet there are tools released for us every day. Follow this repo for the best tools as they become "Awesome"
 ### Tools for prompt engineers
   - [Lexica](https://lexica.art/) - A prompts search engine
   - [Krea.ai](https://www.krea.ai/) - A prompt builder with a nice UI, searchable prompts.
