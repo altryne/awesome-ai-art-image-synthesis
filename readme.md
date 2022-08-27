@@ -7,13 +7,13 @@
 
 ## Contents
 
-- [🤖 Text-to-image Models](#models-you-can-run)
+- [🤖 Text-to-image Models](#text-to-image-models-you-can-run)
   - [💰 Commercial](#commercial) 
   - [☁️ Free hosted](#free-hosted-tools)
   - [💻 Free local](#free-local)  - Run on your GPU
 - [Prompt engineering](#prompt-engineering)
-    - [🎨 Tools for prompt engineer](#tools-for-prompt-engineer)
-    - [📚 Artist studies](#artist-studies)
+    - [🎨 Tools for prompt engineer](#tools-for-prompt-engineers)
+    - [📚 Artist studies](#artistmodifier-studies)
     - [🔗 Browser extensions](#browser-extensions)
     - [🎩 Tips and tricks](#tips-and-tricks)
     - [🎭 Inspiration tools](#inspiration-tools)
@@ -32,6 +32,7 @@
     - [🎥 Videos](#videos) 
     - [✉️ Substack newsletters](#substack-newsletters)
     - [🫡  Notable twitter follows](#notable-twitter-follows)
+- [🚨 Upcoming exciting projects](#upcoming-exciting-projects] 
 
 ## Text-to-image Models you can run
 
@@ -54,10 +55,10 @@ Models, commercial and open source, that you can either try for free and pay for
 
 ### Free local  
 > *Advanced Batteries not included, this section is for advanced folks who can use the command line, install python packages, run code etc' 
-- [StableDiffusion + Web GUI](https://github.com/hlky/stable-diffusion-webui) - This repo has a step by step way to install and run #stableDiffusion using local GPU + a gradio based web UI.
+- [StableDiffusion + Web GUI](https://github.com/hlky/stable-diffusion-webui) - This repo has a step by step way to install and run #stableDiffusion using local GPU + a gradio based web UI. Has a nice UI, upscalers built-in, img2img and inpainting, and a LOT more! (see [thread](https://twitter.com/altryne/status/1563452692399214594) with features
+![CleanShot 2022-08-27 at 15 10 34@2x](https://user-images.githubusercontent.com/463317/187048086-6b518713-120c-445c-86aa-249939663fd8.jpg)
 
 - [StableDiffusion with Diffusers](https://huggingface.co/blog/stable_diffusion) - A simple-ish way to run stable diffusion locally using hugging face diffusers library
-
 
 ### img2img - Generate images from a combination of prompt + init image
 ![](img2img.png)
@@ -93,9 +94,11 @@ The emerging field of the Prompt Engineering is just beginning, and yet there ar
 - [https://letsenhance.io/](https://letsenhance.io/) - LetEnhance is a credit based enhancement system
 
 ### Resolution upscale - free
+  - [WebUI repo](#free-local) has upscalers built in!
   - [real-esrgan](https://replicate.com/nightmareai/real-esrgan) - A hosted version of real-ERSGan with optional face correction
   - [Cupscale](https://github.com/n00mkrad/cupscale) - Windows app that upscales with ERSGan on your GPU
 ### Fix faces
+- [
 ### Fix hands
 -  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 ### Beutify
@@ -120,10 +123,17 @@ The emerging field of the Prompt Engineering is just beginning, and yet there ar
 
 ### Notable twitter follows
 - [Ai, AiArt, Generative](https://twitter.com/i/lists/1318967584721690626?show=top) - A twitter list of 70+ #aiArt community members, a stream of conciuosness for the field 
+- [@ClaireSilver12](https://twitter.com/ClaireSilver12) - Great content, tips and tricks, up to date knowledge about ai synthesis
+- [@TomLikesRobots](https://twitter.com/TomLikesRobots) - Deep insight into this new tech, with updates
+- 
 - [@diffusionBot](https://twitter.com/diffusionbot) - A stableDiffusion bot that generates a prompt right in twitter replies when you mention it. 
 - [Whats AI - Louis Bouchard](https://twitter.com/Whats_AI) - Accessible AI concepts, paper reviews, youtube videos 
 
-
+## Upcoming exciting projects
+> 🚨 These are some of amazing things folks are working on, and is worth keeping in mind, maybe register to their waiting list or give them a follow
+- [Alpaca - Photoshop plugin](https://www.getalpaca.io/) - Exciting photoshop implementation! [DEMO](https://t.co/YvTEJeuJ8N)
+- [Ando - figma plugin](https://twitter.com/RemitNotPaucity/status/1562319004563173376) - Figma plugin! [DEMO](https://twitter.com/RemitNotPaucity/status/1562319004563173376)
+- 
 ## If you find this list valuable
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N3DWMR1)
