@@ -77,7 +77,7 @@ The emerging field of the Prompt Engineering is just beginning, and yet there ar
 ### Artist/Modifier studies 
   - [Stable diffusion artist study](https://proximacentaurib.notion.site/e2537cbf42c34b7e9a9a4126f81dfd0d?v=7b4a3c03fb654045be324eb71acc57e6) - A huge list of artist (no living) with examples by ([@sureailabs](https://twitter.com/sureailabs), [@proximasan](https://twitter.com/proximasan), [@EErratica](https://twitter.com/EErratica), and [@KyrickYoung](https://twitter.com/KyrickYoung))
   - [StableDiffusion modifier study](https://proximacentaurib.notion.site/2b07d3195d5948c6a7e5836f9d535592?v=b5b75a67cc52483c9965cfc141f6f582) - A great study of modifiers that can enhance your prompts significantly
-  - [Another huge lists of artists](https://docs.google.com/document/u/0/d/1SaQx1uJ9LBRS7c6OsZIaeanJGkUdsUBjk9X4dC59BaA) - 3800+ artists and styles + tips for prompting. Continuesly updated.
+  - [Google doc with 3800+ artists and styles](https://docs.google.com/document/u/0/d/1SaQx1uJ9LBRS7c6OsZIaeanJGkUdsUBjk9X4dC59BaA) - Great collaborative effort 3800+ artists and styles + tips for prompting. Continuesly updated. (without generated images) 
 
 ### Browser extensions 
   - [Dalle prompt helper](https://github.com/altryne/dalle-prompt-extension) - a chrome extension to inject prompts into the Dalle interface by [@altryne](https://twitter.com/altryne)
