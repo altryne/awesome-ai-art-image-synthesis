@@ -133,6 +133,7 @@ The emerging field of the Prompt Engineering is just beginning, and yet there ar
 > 🚨 These are some of amazing things folks are working on, and is worth keeping in mind, maybe register to their waiting list or give them a follow
 - [Alpaca - Photoshop plugin](https://www.getalpaca.io/) - Exciting photoshop implementation! [DEMO](https://t.co/YvTEJeuJ8N)
 - [Ando - figma plugin](https://twitter.com/RemitNotPaucity/status/1562319004563173376) - Figma plugin! [DEMO](https://twitter.com/RemitNotPaucity/status/1562319004563173376)
+- [Stablender - a blender plugin](https://github.com/shellward/StablenderDiffusion) - a WIP blender plugin with SD
 - 
 ## If you find this list valuable
 
