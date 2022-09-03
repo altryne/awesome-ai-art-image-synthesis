@@ -9,7 +9,7 @@ project you agree to abide by its terms.
 Ensure your pull request adheres to the following guidelines:
 
 - Check the tools yourself
-- Make sure their are awesome!
+- Make sure they are awesome!
 - Only link to tools you don't think will disapper (no offline collabs)
 
 Thank you for your suggestions!
