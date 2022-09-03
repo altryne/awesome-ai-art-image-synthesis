@@ -45,6 +45,7 @@ Models, commercial and open source, that you can either try for free and pay for
 - [Dalle2](https://labs.openai.com/) - The one that started it all, great with multi characters
 - [NightCafe](https://creator.nightcafe.studio/) - Nightcafe studio is an AI Art Generator (incrorporates stableDiffusion)
 - [ArtBreeder Collage](https://collage.artbreeder.com/) - A collaging tool to generate art using visual aides.
+- [Photoroom](https://www.photoroom.com/backgrounds/) - Photoroom has a new feature for backgrounds (featured on product hunt)
 
 ### Free hosted tools
 
