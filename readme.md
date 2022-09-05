@@ -72,6 +72,7 @@ Models, commercial and open source, that you can either try for free and pay for
 ## Prompt engineering
 > The emerging field of the Prompt Engineering is just beginning, and yet there are tools released for us every day. Follow this repo for the best tools as they become "Awesome"
 ### Tools for prompt engineers
+  - [🦾 Phraser](https://phraser.tech/) - An AI-powered IDE for prompt engineering with intelligent search (Midjourney, Stable Diffusion, and DALLE 2)
   - [Lexica](https://lexica.art/) - A Stable Diffusion prompts search engine
   - [Libraire](https://libraire.ai/) - Another Stable Diffusion prompts search engine, with over 10M images and prompts
   - [Krea.ai](https://www.krea.ai/) - A prompt builder with a nice UI, searchable prompts.
