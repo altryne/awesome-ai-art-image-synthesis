@@ -103,7 +103,7 @@ Models, commercial and open source, that you can either try for free and pay for
   - [WebUI repo](#free-local) has upscalers built in!
   - [real-esrgan](https://replicate.com/nightmareai/real-esrgan) - A hosted version of real-ERSGan with optional face correction
   - [Cupscale](https://github.com/n00mkrad/cupscale) - Windows app that upscales with ERSGan on your GPU
-  - [chaiNNer] (https://github.com/joeyballentine/chaiNNer) - A flowchart/node-based image processing GUI for Windows, MacOS, and Linux
+  - [chaiNNer](https://github.com/joeyballentine/chaiNNer) - A flowchart/node-based image processing GUI for Windows, MacOS, and Linux
 
 ### Fix faces
 - [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
