@@ -82,6 +82,7 @@ Models, commercial and open source, that you can either try for free and pay for
 ### Artist/Modifier studies 
   - [Stable diffusion artist study](https://proximacentaurib.notion.site/e2537cbf42c34b7e9a9a4126f81dfd0d?v=7b4a3c03fb654045be324eb71acc57e6) - A huge list of artist (no living) with examples by ([@sureailabs](https://twitter.com/sureailabs), [@proximasan](https://twitter.com/proximasan), [@EErratica](https://twitter.com/EErratica), and [@KyrickYoung](https://twitter.com/KyrickYoung))
   - [Stable Diffusion Portrait Prompt Study](http://stable-diffusion-guide.s3-website-us-west-2.amazonaws.com/v2/people.html) - A great resource for seeing how different prompts change the style and effects of portrait images.
+  - [Stable Diffusion Artist Style Comparison](https://www.reddit.com/r/StableDiffusion/comments/x6rjpz/artists_style_comparison/) - A great resource shwoing off artists' styles using the same prompt.
   - [StableDiffusion modifier study](https://proximacentaurib.notion.site/2b07d3195d5948c6a7e5836f9d535592?v=b5b75a67cc52483c9965cfc141f6f582) - A great study of modifiers that can enhance your prompts significantly
   - [Google doc with 3800+ artists and styles](https://docs.google.com/document/u/0/d/1SaQx1uJ9LBRS7c6OsZIaeanJGkUdsUBjk9X4dC59BaA) - Great collaborative effort 3800+ artists and styles + tips for prompting. Continuesly updated. (without generated images) 
 
