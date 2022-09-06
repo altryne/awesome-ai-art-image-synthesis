@@ -81,6 +81,7 @@ Models, commercial and open source, that you can either try for free and pay for
 
 ### Artist/Modifier studies 
   - [Stable diffusion artist study](https://proximacentaurib.notion.site/e2537cbf42c34b7e9a9a4126f81dfd0d?v=7b4a3c03fb654045be324eb71acc57e6) - A huge list of artist (no living) with examples by ([@sureailabs](https://twitter.com/sureailabs), [@proximasan](https://twitter.com/proximasan), [@EErratica](https://twitter.com/EErratica), and [@KyrickYoung](https://twitter.com/KyrickYoung))
+  - [Stable Diffusion Portrait Prompt Study](http://stable-diffusion-guide.s3-website-us-west-2.amazonaws.com/v2/people.html) - A great resource for seeing how different prompts change the style and effects of portrait images.
   - [StableDiffusion modifier study](https://proximacentaurib.notion.site/2b07d3195d5948c6a7e5836f9d535592?v=b5b75a67cc52483c9965cfc141f6f582) - A great study of modifiers that can enhance your prompts significantly
   - [Google doc with 3800+ artists and styles](https://docs.google.com/document/u/0/d/1SaQx1uJ9LBRS7c6OsZIaeanJGkUdsUBjk9X4dC59BaA) - Great collaborative effort 3800+ artists and styles + tips for prompting. Continuesly updated. (without generated images) 
 
@@ -126,6 +127,7 @@ Models, commercial and open source, that you can either try for free and pay for
 ## Theory & Learning 
 ### Tutorials
   - [How to get images that don't suck](https://www.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/?utm_source=share&utm_medium=web2x&context=3) - A Beginner/Intermediate Guide to Getting Cool Images from Stable Diffusion, by [u/pxan](https://www.reddit.com/user/pxan/) on Reddit
+  - [Steps for getting better images](https://www.reddit.com/r/StableDiffusion/comments/x6kjdh/steps_for_getting_better_images/) - A good guide published on the r/StableDiffusion subreddit detailing good prompt crafting.
   - [A-Traveler-s-Guide-to-the-Latent-Space](https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f#68987404382d4807b57204429d50e53d) - In depth guide for prompt engineering. 
   - [Dalle2 prompt book](https://dallery.gallery/the-dalle-2-prompt-book/) - A great, visual intro to prompt creation by [@guyp](https://twitter.com/guyp) - Dalle focused
 
