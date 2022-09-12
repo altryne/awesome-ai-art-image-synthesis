@@ -52,16 +52,16 @@ Models, commercial and open source, that you can either try for free and pay for
 ### Free hosted tools
 
 - [Craiyon](https://www.craiyon.com/) - Formerly dalleMini - open source tool that outputs great compositions but lower quality
-- [StableDiffusion on HuggingFace](https://huggingface.co/spaces/stabilityai/stable-diffusion) - Run the #StableDiffusion right in huggingface UI 
-- [StableDiffusion on Replicate](https://replicate.com/stability-ai/stable-diffusion) - Run #StableDiffusionon on replicate.com 
+- [Stable Diffusion on HuggingFace](https://huggingface.co/spaces/stabilityai/stable-diffusion) - Run the #StableDiffusion right in huggingface UI 
+- [Stable Diffusion on Replicate](https://replicate.com/stability-ai/stable-diffusion) - Run #StableDiffusionon on replicate.com 
 - [Google Colab](https://colab.research.google.com/) - Google free GPU machines in the cloud running models of all sorts.
 
 ### Free local  
 > *Advanced Batteries not included, this section is for advanced folks who can use the command line, install python packages, run code etc' 
-- [StableDiffusion + Web GUI](https://github.com/hlky/stable-diffusion-webui) - This repo has a step by step way to install and run #stableDiffusion using local GPU + a gradio based web UI. Has a nice UI, upscalers built-in, img2img and inpainting, and a LOT more! (see [thread](https://twitter.com/altryne/status/1563452692399214594) with features
+- [Stable Diffusion + Web GUI](https://github.com/hlky/stable-diffusion-webui) - This repo has a step by step way to install and run #stableDiffusion using local GPU + a gradio based web UI. Has a nice UI, upscalers built-in, img2img and inpainting, and a LOT more! (see [thread](https://twitter.com/altryne/status/1563452692399214594) with features
 ![CleanShot 2022-08-27 at 15 10 34@2x](https://user-images.githubusercontent.com/463317/187048086-6b518713-120c-445c-86aa-249939663fd8.jpg)
 
-- [StableDiffusion with Diffusers](https://huggingface.co/blog/stable_diffusion) - A simple-ish way to run stable diffusion locally using hugging face diffusers library
+- [Stable Diffusion with Diffusers](https://huggingface.co/blog/stable_diffusion) - A simple-ish way to run stable diffusion locally using hugging face diffusers library
 
 ### img2img - Generate images from a combination of prompt + init image
 ![](img2img.png)
@@ -83,8 +83,9 @@ Models, commercial and open source, that you can either try for free and pay for
   - [Stable diffusion artist study](https://proximacentaurib.notion.site/e2537cbf42c34b7e9a9a4126f81dfd0d?v=7b4a3c03fb654045be324eb71acc57e6) - A huge list of artist (no living) with examples by ([@sureailabs](https://twitter.com/sureailabs), [@proximasan](https://twitter.com/proximasan), [@EErratica](https://twitter.com/EErratica), and [@KyrickYoung](https://twitter.com/KyrickYoung))
   - [Stable Diffusion Portrait Prompt Study](http://stable-diffusion-guide.s3-website-us-west-2.amazonaws.com/v2/people.html) - A great resource for seeing how different prompts change the style and effects of portrait images.
   - [Stable Diffusion Artist Style Comparison](https://www.reddit.com/r/StableDiffusion/comments/x7mbxa/a_comparison_of_the_top_500_sd_artist_styles_see/) - A great resource shwoing off artists' styles using the same prompt of `By <Artist Name>`.
-  - [StableDiffusion modifier study](https://proximacentaurib.notion.site/2b07d3195d5948c6a7e5836f9d535592?v=b5b75a67cc52483c9965cfc141f6f582) - A great study of modifiers that can enhance your prompts significantly
+  - [Stable Diffusion modifier study](https://proximacentaurib.notion.site/2b07d3195d5948c6a7e5836f9d535592?v=b5b75a67cc52483c9965cfc141f6f582) - A great study of modifiers that can enhance your prompts significantly
   - [Google doc with 3800+ artists and styles](https://docs.google.com/document/u/0/d/1SaQx1uJ9LBRS7c6OsZIaeanJGkUdsUBjk9X4dC59BaA) - Great collaborative effort 3800+ artists and styles + tips for prompting. Continuesly updated. (without generated images) 
+  - [Stable Diffusion Artist Style List](https://rentry.org/artists_sd-v1-4) - A fanatstic collection of art styles by artist, in an alphabitized list.
 
 ### Browser extensions 
   - [Dalle prompt helper](https://github.com/altryne/dalle-prompt-extension) - a chrome extension to inject prompts into the Dalle interface by [@altryne](https://twitter.com/altryne)
