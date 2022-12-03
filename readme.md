@@ -53,7 +53,8 @@ Models, commercial and open source, that you can either try for free and pay for
 
 - [Craiyon](https://www.craiyon.com/) - Formerly dalleMini - open source tool that outputs great compositions but lower quality
 - [StableDiffusion on HuggingFace](https://huggingface.co/spaces/stabilityai/stable-diffusion) - Run the #StableDiffusion right in huggingface UI 
-- [StableDiffusion on Replicate](https://replicate.com/stability-ai/stable-diffusion) - Run #StableDiffusionon on replicate.com 
+- [StableDiffusion on Replicate](https://replicate.com/stability-ai/stable-diffusion) - Run #StableDiffusion on replicate.com
+- [StableDiffusion on Artistc.wtf](https://www.artistic.wtf/) - Run #StableDiffusion on artistc.wtf
 - [Google Colab](https://colab.research.google.com/) - Google free GPU machines in the cloud running models of all sorts.
 
 ### Free local  
