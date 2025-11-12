@@ -55,6 +55,7 @@ Models, commercial and open source, that you can either try for free and pay for
 - [StableDiffusion on HuggingFace](https://huggingface.co/spaces/stabilityai/stable-diffusion) - Run the #StableDiffusion right in huggingface UI 
 - [StableDiffusion on Replicate](https://replicate.com/stability-ai/stable-diffusion) - Run #StableDiffusionon on replicate.com 
 - [Google Colab](https://colab.research.google.com/) - Google free GPU machines in the cloud running models of all sorts.
+- [Gempix2 (Nano Banana 2)](https://gempix2.site) - Free AI image generation platform with text-to-image, AI editing, and video generation support using second-generation Nano Banana model. No registration required.
 
 ### Free local  
 > *Advanced Batteries not included, this section is for advanced folks who can use the command line, install python packages, run code etc' 
