@@ -91,8 +91,9 @@ Models, commercial and open source, that you can either try for free and pay for
 
 ### Tips and tricks 
   - [CLIP interrogator](https://github.com/pharmapsychotic/clip-interrogator) - Convert uploaded images into prompts by [@pharampsychotic](https://twitter.com/pharmapsychotic) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb)
-  - [img2prompt](https://replicate.com/methexis-inc/img2prompt) - Hosted version of CLIP interrogator on Replicate. Upload image, get prompt ideas. 
-### Inspiration tools 
+  - [img2prompt](https://replicate.com/methexis-inc/img2prompt) - Hosted version of CLIP interrogator on Replicate. Upload image, get prompt ideas.
+  - [TubePrompter](https://tubeprompter.com) - Convert any video into AI-ready prompts for Sora, Midjourney, Runway, and more
+### Inspiration tools
   - [same.energy](https://same.energy) - A visual exploration search engine. 
   - [CLIP retrieval](https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn5.laion.ai&index=laion5B&useMclip=false) - Allows you to browse the major datasets the img-2-text models were trained on. 
 
