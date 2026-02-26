@@ -77,6 +77,7 @@ Models, commercial and open source, that you can either try for free and pay for
   - [Krea.ai](https://www.krea.ai/) - A prompt builder with a nice UI, searchable prompts.
   - [PromptMania prompt builder](https://promptomania.com/prompt-builder/) - A prompt builder that supports MJ, SD and Dalle, with visual examples and a lot of modifiers
   - [Promptbase Marketplace](https://promptbase.com/) - Buy and sell your promtps for 💰
+  - [AI Image Lab](https://aiimagelab.art/) - Free AI image generator with a curated prompt library across 8 categories. 4K output quality.
   - [GPT-2 prompt generator](https://huggingface.co/succinctly/text2image-prompt-generator) - A GPT2 model trained to autocomplete MJ prompts
 
 ### Artist/Modifier studies 
