@@ -48,6 +48,7 @@ Models, commercial and open source, that you can either try for free and pay for
 - [NightCafe](https://creator.nightcafe.studio/) - Nightcafe studio is an AI Art Generator (incrorporates stableDiffusion)
 - [ArtBreeder Collage](https://collage.artbreeder.com/) - A collaging tool to generate art using visual aides.
 - [Photoroom](https://www.photoroom.com/backgrounds/) - Photoroom has a new feature for backgrounds (featured on product hunt)
+- [Shortodella](https://shortodella.com/) - AI image and video generator with a canvas editor. Design images, edit with AI chat commands, generate videos, and remove backgrounds. Free tier available.
 
 ### Free hosted tools
 
@@ -55,6 +56,7 @@ Models, commercial and open source, that you can either try for free and pay for
 - [StableDiffusion on HuggingFace](https://huggingface.co/spaces/stabilityai/stable-diffusion) - Run the #StableDiffusion right in huggingface UI 
 - [StableDiffusion on Replicate](https://replicate.com/stability-ai/stable-diffusion) - Run #StableDiffusionon on replicate.com 
 - [Google Colab](https://colab.research.google.com/) - Google free GPU machines in the cloud running models of all sorts.
+- [Shortodella](https://shortodella.com/) - Free AI image and video generator with a canvas editor. Create images with multiple AI styles, generate videos from prompts, and edit with AI chat commands. Free collection of AI-generated assets available.
 
 ### Free local  
 > *Advanced Batteries not included, this section is for advanced folks who can use the command line, install python packages, run code etc' 
