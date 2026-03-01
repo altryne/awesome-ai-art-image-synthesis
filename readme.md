@@ -48,6 +48,7 @@ Models, commercial and open source, that you can either try for free and pay for
 - [NightCafe](https://creator.nightcafe.studio/) - Nightcafe studio is an AI Art Generator (incrorporates stableDiffusion)
 - [ArtBreeder Collage](https://collage.artbreeder.com/) - A collaging tool to generate art using visual aides.
 - [Photoroom](https://www.photoroom.com/backgrounds/) - Photoroom has a new feature for backgrounds (featured on product hunt)
+- [Shortodella](https://shortodella.com/) - AI image and video generator with a canvas editor. Design images, edit with AI chat commands, generate videos, and remove backgrounds. Free tier available.
 
 ### Free hosted tools
 
