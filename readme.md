@@ -51,6 +51,7 @@ Models, commercial and open source, that you can either try for free and pay for
 
 ### Free hosted tools
 
+- [NanoBanana2](https://nanobanana2.com) - Free AI image generator with trend-aware templates and multiple models (Gemini, DALL-E, Stable Diffusion). Text-to-image, editing, upscaling.
 - [Craiyon](https://www.craiyon.com/) - Formerly dalleMini - open source tool that outputs great compositions but lower quality
 - [StableDiffusion on HuggingFace](https://huggingface.co/spaces/stabilityai/stable-diffusion) - Run the #StableDiffusion right in huggingface UI 
 - [StableDiffusion on Replicate](https://replicate.com/stability-ai/stable-diffusion) - Run #StableDiffusionon on replicate.com 
