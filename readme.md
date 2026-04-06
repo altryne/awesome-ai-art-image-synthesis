@@ -5,6 +5,7 @@
 
 ![](moore-law-ai-art.jpeg)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration. MIT licensed.
 ## Contents
 
 - [🤖 Text-to-image Models](#text-to-image-models-you-can-run)
