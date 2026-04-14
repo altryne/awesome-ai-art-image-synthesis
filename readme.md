@@ -108,6 +108,7 @@ Models, commercial and open source, that you can either try for free and pay for
   - [chaiNNer](https://github.com/joeyballentine/chaiNNer) - A flowchart/node-based image processing GUI for Windows, MacOS, and Linux
 
 ### Fix faces
+- [ArtImageHub](https://artimagehub.com/old-photo-restoration) - AI-powered old photo restoration. Fixes scratches, fading, blur, and water damage on old family photos using CodeFormer and GFPGAN. One-time $4.99, no subscription.
 - [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 ### Fix hands
 -  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
