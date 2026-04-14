@@ -109,6 +109,7 @@ Models, commercial and open source, that you can either try for free and pay for
 
 ### Fix faces
 - [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+- [ArtImageHub](https://artimagehub.com/old-photo-restoration) - AI face restoration for old photos using CodeFormer + GFPGAN; reconstructs faces in old family photographs, $4.99 one-time
 ### Fix hands
 -  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 ### Beutify
