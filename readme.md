@@ -68,6 +68,7 @@ Models, commercial and open source, that you can either try for free and pay for
 > img2img refers to the practice of feeding a model an init image AND a prompt. 
 - [stable-img-to-img](https://replicate.com/afiaka87/stable-image-to-image) - Hosted version of img2img tool from stable diffusion. Provide an image + a prompt
 - [Diffuse-The-Rest](https://huggingface.co/spaces/huggingface/diffuse-the-rest) - A simple Hugging Face img2img tool that allows for image upload and/or simplistic drawing with a prompt
+- [LandscapioAI](https://www.landscapioai.com/) - Upload a yard photo and generate AI landscape redesign concepts with cost estimates.
 
 ## Prompt engineering
 > The emerging field of the Prompt Engineering is just beginning, and yet there are tools released for us every day. Follow this repo for the best tools as they become "Awesome"
