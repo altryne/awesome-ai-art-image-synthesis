@@ -133,7 +133,7 @@ Models, commercial and open source, that you can either try for free and pay for
   - [Steps for getting better images](https://www.reddit.com/r/StableDiffusion/comments/x6kjdh/steps_for_getting_better_images/) - A good guide published on the r/StableDiffusion subreddit detailing good prompt crafting.
   - [A-Traveler-s-Guide-to-the-Latent-Space](https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f#68987404382d4807b57204429d50e53d) - In depth guide for prompt engineering. 
   - [Dalle2 prompt book](https://dallery.gallery/the-dalle-2-prompt-book/) - A great, visual intro to prompt creation by [@guyp](https://twitter.com/guyp) - Dalle focused
-  - [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+  - [TutorialSearch](https://tutorialsearch.io/browse/ai-machine-learning/artificial-intelligence) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ### YouTube Video Resources
   - [bycloud](https://www.youtube.com/c/bycloudAI) - A channel focused on AI related content, with a lot of content foscusing on AI-Generated artwork.
