@@ -107,6 +107,9 @@ Models, commercial and open source, that you can either try for free and pay for
   - [Cupscale](https://github.com/n00mkrad/cupscale) - Windows app that upscales with ERSGan on your GPU
   - [chaiNNer](https://github.com/joeyballentine/chaiNNer) - A flowchart/node-based image processing GUI for Windows, MacOS, and Linux
 
+### Photo Restoration
+- [PhotoRestore.ai](https://photorestore.ai) - AI-powered restoration of old and damaged photos. Repairs scratches, fading, tears, and colorizes B&W photos automatically.
+
 ### Fix faces
 - [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 ### Fix hands
