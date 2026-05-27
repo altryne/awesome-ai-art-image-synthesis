@@ -48,6 +48,7 @@ Models, commercial and open source, that you can either try for free and pay for
 - [NightCafe](https://creator.nightcafe.studio/) - Nightcafe studio is an AI Art Generator (incrorporates stableDiffusion)
 - [ArtBreeder Collage](https://collage.artbreeder.com/) - A collaging tool to generate art using visual aides.
 - [Photoroom](https://www.photoroom.com/backgrounds/) - Photoroom has a new feature for backgrounds (featured on product hunt)
+- [Comicory](https://www.comicory.com/) - AI comic generator that turns a story paragraph into a multi-panel comic strip with consistent characters across panels via FLUX.1-Kontext image-to-image conditioning. 8 art styles (manga, western, superhero, watercolor, B&W, cartoon, pixel, ink) and per-panel regeneration.
 
 ### Free hosted tools
 
