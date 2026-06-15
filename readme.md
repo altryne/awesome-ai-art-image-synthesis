@@ -42,6 +42,7 @@ Models, commercial and open source, that you can either try for free and pay for
 
 ### Commercial 
 
+- [Seedream AI Studio](https://seedream4.video/) - Multi-model AI image generation using ByteDance's Seedream 5.0/4.5/4.0, with one-click image-to-video animation via Kling 2.1. Free tier available.
 - [DreamStudio](https://beta.dreamstudio.ai/) - #StableDiffusion in the cloud 
 - [Midjourney](https://www.midjourney.com/app/) - Discord bot with amazing visuals
 - [Dalle2](https://labs.openai.com/) - The one that started it all, great with multi characters
