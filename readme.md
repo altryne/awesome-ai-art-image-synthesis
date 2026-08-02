@@ -62,6 +62,7 @@ Models, commercial and open source, that you can either try for free and pay for
 ![CleanShot 2022-08-27 at 15 10 34@2x](https://user-images.githubusercontent.com/463317/187048086-6b518713-120c-445c-86aa-249939663fd8.jpg)
 
 - [StableDiffusion with Diffusers](https://huggingface.co/blog/stable_diffusion) - A simple-ish way to run stable diffusion locally using hugging face diffusers library
+- [Image MetaHub](https://github.com/LuqP2/Image-MetaHub) - Local-first desktop app to search and organize AI-generated images by prompt, model, LoRA, seed, and full ComfyUI/A1111 workflow metadata. Windows/macOS/Linux, fully offline.
 
 ### img2img - Generate images from a combination of prompt + init image
 ![](img2img.png)
