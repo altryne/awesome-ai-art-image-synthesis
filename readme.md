@@ -78,6 +78,7 @@ Models, commercial and open source, that you can either try for free and pay for
   - [PromptMania prompt builder](https://promptomania.com/prompt-builder/) - A prompt builder that supports MJ, SD and Dalle, with visual examples and a lot of modifiers
   - [Promptbase Marketplace](https://promptbase.com/) - Buy and sell your promtps for 💰
   - [GPT-2 prompt generator](https://huggingface.co/succinctly/text2image-prompt-generator) - A GPT2 model trained to autocomplete MJ prompts
+  - [Omni-Rewriter](https://github.com/WayneJin0918/Omni-Rewriter) - Open agentic prompt-expansion harness for image/video model dialects (schema + validation + bounded repair; expand ≠ generate)
 
 ### Artist/Modifier studies 
   - [Stable diffusion artist study](https://proximacentaurib.notion.site/e2537cbf42c34b7e9a9a4126f81dfd0d?v=7b4a3c03fb654045be324eb71acc57e6) - A huge list of artist (no living) with examples by ([@sureailabs](https://twitter.com/sureailabs), [@proximasan](https://twitter.com/proximasan), [@EErratica](https://twitter.com/EErratica), and [@KyrickYoung](https://twitter.com/KyrickYoung))
