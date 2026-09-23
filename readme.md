@@ -42,6 +42,7 @@ Models, commercial and open source, that you can either try for free and pay for
 
 ### Commercial 
 
+- [MagicKit](https://kaketiti.github.io) - Free AI tools collection - 66+ tools, zero registration, zero API key required
 - [DreamStudio](https://beta.dreamstudio.ai/) - #StableDiffusion in the cloud 
 - [Midjourney](https://www.midjourney.com/app/) - Discord bot with amazing visuals
 - [Dalle2](https://labs.openai.com/) - The one that started it all, great with multi characters
