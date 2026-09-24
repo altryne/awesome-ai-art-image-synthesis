@@ -100,6 +100,7 @@ Models, commercial and open source, that you can either try for free and pay for
 ### Resolution upscale - subscription
 - [Gigapixel upscaler](https://www.topazlabs.com/gigapixel-ai) Great upscaler app + web. One time payment
 - [https://letsenhance.io/](https://letsenhance.io/) - LetEnhance is a credit based enhancement system
+- [UpRes](https://upres.ai) - AI image and video upscaling to 8K across 14 neural models with developer REST API and MCP server
 
 ### Resolution upscale - free
   - [WebUI repo](#free-local) has upscalers built in!
