@@ -52,6 +52,7 @@ Models, commercial and open source, that you can either try for free and pay for
 ### Free hosted tools
 
 - [Craiyon](https://www.craiyon.com/) - Formerly dalleMini - open source tool that outputs great compositions but lower quality
+- [Raphael AI](https://raphael.app) - Free AI image generator for high-quality visuals from text prompts
 - [StableDiffusion on HuggingFace](https://huggingface.co/spaces/stabilityai/stable-diffusion) - Run the #StableDiffusion right in huggingface UI 
 - [StableDiffusion on Replicate](https://replicate.com/stability-ai/stable-diffusion) - Run #StableDiffusionon on replicate.com 
 - [Google Colab](https://colab.research.google.com/) - Google free GPU machines in the cloud running models of all sorts.
