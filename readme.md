@@ -49,6 +49,8 @@ Models, commercial and open source, that you can either try for free and pay for
 - [ArtBreeder Collage](https://collage.artbreeder.com/) - A collaging tool to generate art using visual aides.
 - [Photoroom](https://www.photoroom.com/backgrounds/) - Photoroom has a new feature for backgrounds (featured on product hunt)
 
+- [LivePair AI](https://livepairai.com) - 80+ image and video models via web and agent APIs (MCP, OpenAPI, x402), incl. private-mode generation
+
 ### Free hosted tools
 
 - [Craiyon](https://www.craiyon.com/) - Formerly dalleMini - open source tool that outputs great compositions but lower quality
