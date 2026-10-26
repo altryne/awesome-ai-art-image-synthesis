@@ -55,6 +55,7 @@ Models, commercial and open source, that you can either try for free and pay for
 - [StableDiffusion on HuggingFace](https://huggingface.co/spaces/stabilityai/stable-diffusion) - Run the #StableDiffusion right in huggingface UI 
 - [StableDiffusion on Replicate](https://replicate.com/stability-ai/stable-diffusion) - Run #StableDiffusionon on replicate.com 
 - [Google Colab](https://colab.research.google.com/) - Google free GPU machines in the cloud running models of all sorts.
+- [Mode VC LLM Inference Cost Calculator](https://modevc.com/tools/llm-inference-calculator) - Free browser-side LLM token unit economics, prompt caching, and gross margin calculator across 8 frontier and open-weights models.
 
 ### Free local  
 > *Advanced Batteries not included, this section is for advanced folks who can use the command line, install python packages, run code etc' 
