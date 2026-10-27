@@ -108,6 +108,7 @@ Models, commercial and open source, that you can either try for free and pay for
   - [chaiNNer](https://github.com/joeyballentine/chaiNNer) - A flowchart/node-based image processing GUI for Windows, MacOS, and Linux
 
 ### Fix faces
+- [SparkPix](https://sparkpix.ai/) - Prompt-based editor to make AI-generated photos look more real (skin, faces, light).
 - [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 ### Fix hands
 -  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
