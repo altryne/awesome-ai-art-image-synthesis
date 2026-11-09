@@ -51,6 +51,7 @@ Models, commercial and open source, that you can either try for free and pay for
 
 ### Free hosted tools
 
+- [AI Pose Gallery](https://aiposegallery.com/?utm_source=awesome-ai-art-image-synthesis&utm_medium=directory&utm_campaign=backlinks) - Free pose-reference gallery with optional AI pose generation from a photo
 - [Craiyon](https://www.craiyon.com/) - Formerly dalleMini - open source tool that outputs great compositions but lower quality
 - [StableDiffusion on HuggingFace](https://huggingface.co/spaces/stabilityai/stable-diffusion) - Run the #StableDiffusion right in huggingface UI 
 - [StableDiffusion on Replicate](https://replicate.com/stability-ai/stable-diffusion) - Run #StableDiffusionon on replicate.com 
