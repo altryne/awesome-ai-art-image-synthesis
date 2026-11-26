@@ -55,6 +55,7 @@ Models, commercial and open source, that you can either try for free and pay for
 - [StableDiffusion on HuggingFace](https://huggingface.co/spaces/stabilityai/stable-diffusion) - Run the #StableDiffusion right in huggingface UI 
 - [StableDiffusion on Replicate](https://replicate.com/stability-ai/stable-diffusion) - Run #StableDiffusionon on replicate.com 
 - [Google Colab](https://colab.research.google.com/) - Google free GPU machines in the cloud running models of all sorts.
+- [CreoArt](https://creoart.app/pay-as-you-go-ai-generator) - Pay-as-you-go private AI image & video studio uniting 45 models (3 free daily no-login FLUX.2 runs + never-expiring credits) paired with a free ad-free WebGPU PSD editor.
 
 ### Free local  
 > *Advanced Batteries not included, this section is for advanced folks who can use the command line, install python packages, run code etc' 
